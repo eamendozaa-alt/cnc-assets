@@ -2,7 +2,7 @@
   "name": "IACYM CNC",
   "short_name": "CNC",
   "description": "Plataforma oficial de gestión IACYM CNC",
-  "start_url": "https://cnc.knack.com/iacym-cnc##nuevo-menu/",
+  "start_url": "https://cnc.knack.com/iacym-cnc#nuevo-menu/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#00AEEF",
