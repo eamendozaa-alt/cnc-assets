@@ -9,6 +9,13 @@
   "orientation": "portrait",
   "background_color": "#00AEEF",
   "theme_color": "#00AEEF",
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://raw.githubusercontent.com/eamendozaa-alt/cnc-assets/refs/heads/main/manifest.json"
+    }
+  ],
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/eamendozaa-alt/cnc-assets/refs/heads/main/logo_cnc_192.png",
