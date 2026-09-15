@@ -7,8 +7,8 @@
   "scope": "https://cnc.knack.com/iacym-cnc/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#00AEEF",
-  "theme_color": "#00AEEF",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "prefer_related_applications": false,
   "related_applications": [
     {
