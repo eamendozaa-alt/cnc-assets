@@ -2,7 +2,7 @@
   "name": "IACYM CNC",
   "short_name": "CNC",
   "description": "Plataforma oficial de gestión IACYM CNC",
-  "id": "https://cnc.knack.com/iacym-cnc/",
+  "id": "/iacym-cnc/",
   "start_url": "https://cnc.knack.com/iacym-cnc/#nuevo-menu/",
   "scope": "https://cnc.knack.com/iacym-cnc/",
   "display": "standalone",
@@ -10,6 +10,12 @@
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "prefer_related_applications": false,
+   "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://raw.githubusercontent.com/eamendozaa-alt/cnc-assets/refs/heads/main/manifest.json"
+    }
+  ],
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/eamendozaa-alt/cnc-assets/refs/heads/main/icon-192x192.png",
